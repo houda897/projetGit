@@ -1,0 +1,4 @@
+# Ignorer tous les fichiers .txt
+*.gitignore
+3.txt
+4.txt
